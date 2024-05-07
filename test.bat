@@ -1,1 +1,1 @@
-echo Hello wassap bro? V7
+ech Hello wassap bro? V7
