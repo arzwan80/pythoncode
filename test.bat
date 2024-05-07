@@ -1,1 +1,1 @@
-ech Hello Jenkins. Please be nice to me. V1
+echo Hello Jenkins. Please be nice to me. V1
